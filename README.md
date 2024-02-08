@@ -8,6 +8,7 @@ Please click Tools> Options >  on the left select websearchEngine
 you can edit three Field input other web search engine
 
 ex
+
 https://www.google.com/search?q={searchword}
 {searchword} is keyword,It replace  Joplin select text.
 
