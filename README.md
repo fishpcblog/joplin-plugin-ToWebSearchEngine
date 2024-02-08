@@ -6,9 +6,11 @@ Please click Tools> Options > on the left select Plugins > input ToWebSearchEngi
 Please click Tools> Options >  on the left select websearchEngine
 
 you can edit three Field input other web search engine
-ex 
+
+ex
 https://www.google.com/search?q={searchword}
 {searchword} is keyword,It replace  Joplin select text.
+
 # Blog
 [方格子](https://vocus.cc/user/@fishpcinfo)
 
