@@ -1,5 +1,15 @@
-# Joplin Plugin
+# Install
+Please click Tools> Options > on the left select Plugins > input ToWebSearchEngine> Click Install
+# Usage
+![tutorial.gif](:/30d6a4105e314c44a66e059d3c02cdd7)
+# Setting
+Please click Tools> Options >  on the left select websearchEngine
+you can edit three Field input other web search engine
+ex 
+https://www.google.com/search?q={searchword}
+{searchword} is keyword,It replace  Joplin select text.
+# Blog
+[方格子](https://vocus.cc/user/@fishpcinfo)
 
-This is your new Joplin plugin. It is suggested that you use this README file to document your plugin.
-
-For information on how to build or publish the plugin, please see [GENERATOR_DOC.md](./GENERATOR_DOC.md)
+# 贊助
+[方格子贊助](https://vocus.cc/pay/donate/once/62be72b6fd89780001b11fe1?planId=60ab31f1fd897800019bff5f)

@@ -1,5 +1,5 @@
 {
-  "name": "joplin-plugin-selectedtext-to-websearchengine",
+  "name": "joplin-plugin-selectedtext-to-WebSearchEngine",
   "version": "1.0.0",
   "scripts": {
     "dist": "webpack --env joplin-plugin-config=buildMain && webpack --env joplin-plugin-config=buildExtraScripts && webpack --env joplin-plugin-config=createArchive",
