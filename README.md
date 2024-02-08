@@ -4,6 +4,7 @@ Please click Tools> Options > on the left select Plugins > input ToWebSearchEngi
 ![tutorial.gif](https://github.com/fishpcblog/joplin-plugin-ToWebSearchEngine/blob/main/gif/tutorial.gif?raw=true)
 # Setting
 Please click Tools> Options >  on the left select websearchEngine
+
 you can edit three Field input other web search engine
 ex 
 https://www.google.com/search?q={searchword}
