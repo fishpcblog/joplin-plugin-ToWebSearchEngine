@@ -1,7 +1,7 @@
 # Install
 Please click Tools> Options > on the left select Plugins > input ToWebSearchEngine> Click Install
 # Usage
-![tutorial.gif](https://github.com/fishpcblog/joplin-plugin-ToWebSearchEngine/blob/main/gif/tutorial.gif?raw=true)
+![tutorial.gif](https://github.com/fishpcblog/joplin-plugin-ToWebSearchEngine/blob/4a1648dfbb1a1633469974804ec82e2247f14cd3/gif/tutorial.gif)
 # Setting
 Please click Tools> Options >  on the left select websearchEngine
 
