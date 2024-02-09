@@ -1,7 +1,7 @@
 # Install
 Please click Tools> Options > on the left select Plugins > input ToWebSearchEngine> Click Install
 # Usage
-![tutorial.gif](:/30d6a4105e314c44a66e059d3c02cdd7)
+![tutorial.gif](https://raw.githubusercontent.com/fishpcblog/joplin-plugin-ToWebSearchEngine/4a1648dfbb1a1633469974804ec82e2247f14cd3/gif/tutorial.gif)
 # Setting
 Please click Tools> Options >  on the left select websearchEngine
 you can edit three Field input other web search engine
